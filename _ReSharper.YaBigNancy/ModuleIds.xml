@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="13AE5021-ED94-474A-923F-F0D9A77853D5" ModuleId="YaBigNancy" />
+  <Module PersistentId="Nancy, Version=0.11.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Nancy" />
+</Modules>
