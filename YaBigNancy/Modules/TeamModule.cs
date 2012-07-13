@@ -27,7 +27,9 @@ namespace YaBigNancy.Modules
 
             Get["/api/teams"] = p => new JsonResponse(SeedTeams.Seed(), new DefaultJsonSerializer());
 
-            Get["/"] = p => View["index.htm"];
+            //Get["/"] = p => View["index.htm"];
+
+            Get["/"] = p => View["index.cshtml"];
         }
     }
 }
