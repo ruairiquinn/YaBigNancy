@@ -4,7 +4,7 @@ using Nancy;
 using Nancy.Responses;
 using YaBigNancy.Modal;
 
-namespace YaBigNancy.Modules
+namespace YaBigNancy.Teams
 {
     public class TeamModule : NancyModule
     {
@@ -29,7 +29,7 @@ namespace YaBigNancy.Modules
 
             //Get["/"] = p => View["index.htm"];
 
-            Get["/"] = p => View["index.cshtml"];
+            Get["/"] = p => View["TeamHomePage.cshtml"];
         }
     }
 }

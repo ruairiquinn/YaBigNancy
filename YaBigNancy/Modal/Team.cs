@@ -29,7 +29,7 @@ namespace YaBigNancy.Modal
             var manUtd = new Team
             {
                 Name = "Man Utd",
-                Manager = new Manager { Id = 4, Forename = "Alex", Surname = "Fergusen" },
+                Manager = new Manager { Id = 4, Forename = "Alex", Surname = "Ferguson" },
                 Players = new List<Player>
                                                  {
                                                      new Player {Id = 2, Forename = "Wayne", Surname = "Rooney"},
