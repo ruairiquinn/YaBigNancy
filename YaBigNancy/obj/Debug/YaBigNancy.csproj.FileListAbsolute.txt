@@ -1,7 +1,0 @@
-C:\Code\YaBigNancy\YaBigNancy\bin\YaBigNancy.dll
-C:\Code\YaBigNancy\YaBigNancy\bin\YaBigNancy.pdb
-C:\Code\YaBigNancy\YaBigNancy\bin\Nancy.dll
-C:\Code\YaBigNancy\YaBigNancy\obj\Debug\ResolveAssemblyReference.cache
-C:\Code\YaBigNancy\YaBigNancy\obj\Debug\YaBigNancy.dll
-C:\Code\YaBigNancy\YaBigNancy\obj\Debug\YaBigNancy.pdb
-C:\Code\YaBigNancy\YaBigNancy\bin\Nancy.Hosting.Aspnet.dll
